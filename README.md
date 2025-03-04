@@ -1,5 +1,7 @@
 # Upstash Redis
 
+test
+
 `@upstash/redis` is an HTTP/REST based Redis client for typescript, built on top
 of [Upstash REST API](https://docs.upstash.com/features/restapi).
 
